@@ -15,7 +15,9 @@ const Header = () => {
 				</div>
 
 				<Button asChild variant='ghost'>
-					<Link to='#' className='text-primary'>
+					<Link
+						to='https://github.com/Zurisaday01/mock-data-factory'
+						className='text-primary'>
 						<Github />
 					</Link>
 				</Button>
